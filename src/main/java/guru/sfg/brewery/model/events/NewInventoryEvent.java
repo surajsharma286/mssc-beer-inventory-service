@@ -1,4 +1,4 @@
-package guru.sfg.common;
+package guru.sfg.brewery.model.events;
 
 import lombok.NoArgsConstructor;
 
